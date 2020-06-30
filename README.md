@@ -6,7 +6,7 @@
 
 ### The data  
 
-The dataset consists of bullet, blitz, and classical games played on lichess.org during February 2016. Only games with more than 0 moves and an average ELO between the players of 1000-2200 are considered. The dataset comes from the [lichess.org game database](https://database.lichess.org). The original dataset contains 5,015,361 games. The cleaned dataset that we consider contains 4,997,502 games. This dataset is somewhat old, but the huge amount of games *(75,628,855 in May 2020!)* prevents me from using data from recent months unless I sample. I want to try this on new data at some point, but I don't currently have the hardware to do so.  
+The dataset consists of bullet, blitz, and classical games played on lichess.org during February 2016. Only games with more than 0 moves and an average ELO between the players of 1000-2200 are considered. The dataset comes from the [lichess.org game database](https://database.lichess.org). The original dataset contains 5,015,361 games. The cleaned dataset that we consider contains 4,780,393 games. This dataset is somewhat old, but the huge amount of games *(75,628,855 in May 2020!)* prevents me from using data from recent months unless I sample. I want to try this on new data at some point, but I don't currently have the hardware to do so.  
 
 ### How are time controls determined?  
 From lichess.org:  
