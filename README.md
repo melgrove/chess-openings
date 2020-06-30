@@ -1,5 +1,4 @@
-# Openings played on lichess.org
-Visualizing how chess openings differ by ELO and time control
+# Visualizing how chess openings differ by ELO and time control
 
 ![](./graphics/animation.gif)  
 
@@ -24,4 +23,4 @@ You: *Where are Rapid and Ultrabullet? Did you omit them?*
 Me: *The data comes from a time before [Rapid](https://lichess.org/blog/Wh9KWiQAAI5JrKVn/introducing-rapid-ratings) and [Ultrabullet](https://lichess.org/blog/WN7V-jAAAAdH8ITR/announcing-instant-chess) were introduced. Games in the data with time controls that would be considered Rapid and Ultrabullet today fall under the Classical and Bullet time controls respectively.*  
 
 ### A note on ELO ranges  
-The range of 1000-2200 ELO was chosen because beyond these two endpoints the games become sparse and the opening distributions have extreme variance. The rating distributions between the three time controls are not exactly the same, but a common range is needed in order to compare them. A better metric to compare time controls may be a comparative rating based on ELO percentile instead of absolute ELO rating. This would be a reasonable thing to try and slightly harder, so I encourage you to fork this project and give it a go! 
+The range of 1000-2200 ELO was chosen because beyond these two endpoints the games become sparse and the opening distributions have extreme variance. The rating distributions between the three time controls are not exactly the same, but a common range is needed in order to compare them. A better metric to compare time controls may be a comparative rating based on ELO percentile instead of absolute ELO rating. This would be a reasonable thing to try, so I encourage you to fork this project and give it a go! 
