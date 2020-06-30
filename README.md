@@ -3,7 +3,7 @@ Visualizing how chess openings differ by ELO and time control
 
 ![](./graphics/animation.gif)  
 
-There are also individual graphics for [Bullet], [Blitz], and [Classical]. These PDFs are also in the graphics folder.
+### See the individual graphics for [Bullet](./graphics/bullet.pdf), [Blitz](./graphics/blitz.pdf), and [Classical](./graphics/classical.pdf).
 
 ### The data  
 
