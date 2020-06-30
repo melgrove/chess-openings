@@ -1,7 +1,9 @@
 # Openings played on lichess.org
 Visualizing how chess openings differ by ELO and time control
 
-![](./graphics/animation.gif)
+![](./graphics/animation.gif)  
+
+There are also individual graphics for [Bullet], [Blitz], and [Classical]. These PDFs are also in the graphics folder.
 
 ### The data  
 
